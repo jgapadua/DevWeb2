@@ -1,0 +1,26 @@
+
+ As informações a serem mantidas para cada cidade referem-se a hotéis, restaurantes e pontos turísticos. 
+
+ Sobre hotéis deseja-se guardar o código, o nome, o endereço e a categoria (por exemplo, sem estrela, uma estrela, 2 estrelas,…), os tipos de quartos que o formam (por exemplo, luxo, superluxo, etc.), o número de quartos e o valor da diária de acordo com o tipo de quarto. 
+
+ Sobre cada cidade, deve-se armazenar o nome, o estado e a população. Além disso, quando uma nova cidade é cadastrada, um código é a ela oferecido. 
+
+ Cada restaurante da cidade possui um código que a identifica, um nome, um endereço e o tipo de categoria (por exemplo, luxo, simples, etc). Além disso, um restaurante pode pertencer a um hotel, e um hotel somente pode ser associado a um restaurante. 
+
+ Diferentes pontos turísticos são cadastrados no sistema (somente existem estes): igreja, casas de show e museus 
+
+ Além da descrição e do endereço, as igrejas devem possuir como característica a data e o estilo da construção. 
+
+ Das casas de show deve armazenar a data de início do show (igual para todos os dias da semana), e o dia do fechamento (apenas um único dia da semana), além da sua descrição e endereço. 
+
+ Para os museus deve-se armazenar endereço, descrição, data de fundação e número de salas. 
+
+ Um museu pode ter sido fundado por vários fundadores. Para estes deve-se armazenar seu nome, data de nascimento e data de morte (se houver), a nacionalidade e a atividade profissional que desenvolvia. Além disso, um fundador pode ter fundado vários museus. 
+
+ Quando um ponto turístico é cadastrado no sistema, ele recebe um código que o identifica. O mesmo é válido para os fundadores. 
+
+ Finalmente, casas de show podem possuir um restaurante. Quando um cliente reserva um passeio para uma casa de show, ele já sabe se esta possui restaurante e qual o preço médio da refeição, além da especialidade (comida chinesa, japonesa, brasileira, italiana, etc.) 
+
+ Dentro de uma casa de show apenas um único restaurante pode existir. 
+
+

@@ -1,0 +1,21 @@
+H:\visual studio 2017\MeuWebservice\MeuWebservice\bin\MeuWebservice.dll.config
+H:\visual studio 2017\MeuWebservice\MeuWebservice\bin\MeuWebservice.dll
+H:\visual studio 2017\MeuWebservice\MeuWebservice\bin\MeuWebservice.pdb
+H:\visual studio 2017\MeuWebservice\MeuWebservice\obj\Debug\MeuWebservice.csprojAssemblyReference.cache
+H:\visual studio 2017\MeuWebservice\MeuWebservice\obj\Debug\MeuWebservice.csproj.CoreCompileInputs.cache
+H:\visual studio 2017\MeuWebservice\MeuWebservice\obj\Debug\MeuWebservice.dll
+H:\visual studio 2017\MeuWebservice\MeuWebservice\obj\Debug\MeuWebservice.pdb
+C:\Users\otaviano\MeuWebservice\MeuWebservice\bin\MeuWebservice.dll.config
+C:\Users\otaviano\MeuWebservice\MeuWebservice\bin\MeuWebservice.dll
+C:\Users\otaviano\MeuWebservice\MeuWebservice\bin\MeuWebservice.pdb
+C:\Users\otaviano\MeuWebservice\MeuWebservice\obj\Debug\MeuWebservice.csprojAssemblyReference.cache
+C:\Users\otaviano\MeuWebservice\MeuWebservice\obj\Debug\MeuWebservice.csproj.CoreCompileInputs.cache
+C:\Users\otaviano\MeuWebservice\MeuWebservice\obj\Debug\MeuWebservice.dll
+C:\Users\otaviano\MeuWebservice\MeuWebservice\obj\Debug\MeuWebservice.pdb
+H:\MeuWebservice\MeuWebservice\bin\MeuWebservice.dll.config
+H:\MeuWebservice\MeuWebservice\bin\MeuWebservice.dll
+H:\MeuWebservice\MeuWebservice\bin\MeuWebservice.pdb
+H:\MeuWebservice\MeuWebservice\obj\Debug\MeuWebservice.csprojAssemblyReference.cache
+H:\MeuWebservice\MeuWebservice\obj\Debug\MeuWebservice.csproj.CoreCompileInputs.cache
+H:\MeuWebservice\MeuWebservice\obj\Debug\MeuWebservice.dll
+H:\MeuWebservice\MeuWebservice\obj\Debug\MeuWebservice.pdb

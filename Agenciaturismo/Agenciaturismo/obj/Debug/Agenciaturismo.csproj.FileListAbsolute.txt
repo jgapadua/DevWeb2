@@ -1,0 +1,175 @@
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\Agenciaturismo.dll.config
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\Agenciaturismo.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\Agenciaturismo.pdb
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\csc.exe
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\csc.exe.config
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\csc.rsp
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\csi.exe
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\csi.exe.config
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\csi.rsp
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.Managed.Core.targets
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.AppContext.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Collections.Immutable.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Console.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.IO.Compression.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.IO.FileSystem.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.IO.Pipes.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Reflection.Metadata.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Security.AccessControl.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Security.Claims.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Security.Principal.Windows.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.ValueTuple.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Xml.XmlDocument.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Xml.XPath.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\vbc.exe
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\vbc.exe.config
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\vbc.rsp
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\VBCSCompiler.exe
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\roslyn\VBCSCompiler.exe.config
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\MySql.Data.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\Google.Protobuf.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\MySql.Data.xml
+H:\DevWeb\Agenciaturismo\Agenciaturismo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\DevWeb\Agenciaturismo\Agenciaturismo\obj\Debug\Agenciaturismo.csprojAssemblyReference.cache
+H:\DevWeb\Agenciaturismo\Agenciaturismo\obj\Debug\Agenciaturismo.csproj.CoreCompileInputs.cache
+H:\DevWeb\Agenciaturismo\Agenciaturismo\obj\Debug\Agenciaturismo.csproj.CopyComplete
+H:\DevWeb\Agenciaturismo\Agenciaturismo\obj\Debug\Agenciaturismo.dll
+H:\DevWeb\Agenciaturismo\Agenciaturismo\obj\Debug\Agenciaturismo.pdb
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\Agenciaturismo.dll.config
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\Agenciaturismo.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\Agenciaturismo.pdb
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\csc.exe
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\csc.exe.config
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\csc.rsp
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\csi.exe
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\csi.exe.config
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\csi.rsp
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.AppContext.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Console.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.IO.Compression.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Security.Claims.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.ValueTuple.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\vbc.exe
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\vbc.exe.config
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\vbc.rsp
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\VBCSCompiler.exe
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\Google.Protobuf.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\MySql.Data.xml
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\obj\Debug\Agenciaturismo.csprojAssemblyReference.cache
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\obj\Debug\Agenciaturismo.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\obj\Debug\Agenciaturismo.csproj.CopyComplete
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\obj\Debug\Agenciaturismo.dll
+C:\Users\joaog\Documents\Visual Studio 2017\Agenciaturismo\Agenciaturismo\obj\Debug\Agenciaturismo.pdb
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\Agenciaturismo.dll.config
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\Agenciaturismo.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\Agenciaturismo.pdb
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\csc.exe
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\csc.exe.config
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\csc.rsp
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\csi.exe
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\csi.exe.config
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\csi.rsp
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.AppContext.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Console.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.IO.Compression.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Security.Claims.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.ValueTuple.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\vbc.exe
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\vbc.exe.config
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\vbc.rsp
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\VBCSCompiler.exe
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\Google.Protobuf.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\MySql.Data.xml
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\obj\Debug\Agenciaturismo.csprojAssemblyReference.cache
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\obj\Debug\Agenciaturismo.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\obj\Debug\Agenciaturismo.csproj.CopyComplete
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\obj\Debug\Agenciaturismo.dll
+C:\Users\joaog\Downloads\Agenciaturismo\Agenciaturismo\obj\Debug\Agenciaturismo.pdb
